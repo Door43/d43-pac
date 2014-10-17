@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pac:home|Door43 (pac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pac|d43-pac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pac/archive/master.zip|d43-pac.zip]]
+
+**Recent Changes**
+{{changes>ns = pac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pac|Ethnologue data]]
+
